@@ -14,12 +14,14 @@ In the telecom world, **customer churn** means users cancel their subscription o
 - Acquiring new customers is **5x more expensive** than retaining current ones.  
 - High churn leads to **revenue loss**, **marketing costs**, and **brand damage**.  
 - Predicting churn lets businesses **act early**—offering support, discounts, or better service.
-
+  
+---
 
 ## 🎯 Project Objective
 
 The goal is to build a **machine learning model** that predicts whether a customer will churn based on their usage, service type, and demographic information.
 
+---
 
 ## 📂 Dataset Used
 
@@ -28,7 +30,7 @@ The goal is to build a **machine learning model** that predicts whether a custom
   - Customer info: gender, senior citizen, partner, dependents  
   - Account info: contract type, internet service, monthly charges, tenure  
   - Target variable: `Churn` (Yes/No)
-
+---
 
 ## 🛠️ Tools & Technologies Used
 
@@ -61,6 +63,7 @@ The goal is to build a **machine learning model** that predicts whether a custom
   - Low tenure (new users churn more)  
 - Built a model to help telecom providers **reduce churn and improve retention**
 
+---
 
 ## 📌 Key Business Insights
 
@@ -69,6 +72,7 @@ The goal is to build a **machine learning model** that predicts whether a custom
 - Loyal customers (high tenure) churn less  
 - Proactive strategies can be built using model predictions
 
+---
 
 ## 🚀 Future Enhancements
 
@@ -77,6 +81,7 @@ The goal is to build a **machine learning model** that predicts whether a custom
 - Use advanced techniques like deep learning or XGBoost  
 - Deploy with Flask API or Streamlit for live prediction
 
+---
 
 This project is a great example of how data science can solve real-world business problems.  
 It combines **technical modeling** with **actionable insights** for business decision-makers.
